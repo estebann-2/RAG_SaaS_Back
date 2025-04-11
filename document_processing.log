@@ -15653,3 +15653,4 @@ ModuleNotFoundError: No module named 'rag_app_apis.context_processors'
 2025-04-11 06:11:49,015 - INFO - /Users/esteban.caicedo/Library/CloudStorage/OneDrive-WPPCloud/Desktop/MaIA/3 SEMESTRE/Desarrollo de soluciones cloud/Proyecto/RAG_SaaS_Back/RAG_SaaS/urls.py changed, reloading.
 2025-04-11 06:16:05,048 - INFO - /Users/esteban.caicedo/Library/CloudStorage/OneDrive-WPPCloud/Desktop/MaIA/3 SEMESTRE/Desarrollo de soluciones cloud/Proyecto/RAG_SaaS_Back/RAG_SaaS/settings.py changed, reloading.
 2025-04-11 06:18:18,981 - INFO - /Users/esteban.caicedo/Library/CloudStorage/OneDrive-WPPCloud/Desktop/MaIA/3 SEMESTRE/Desarrollo de soluciones cloud/Proyecto/RAG_SaaS_Back/RAG_SaaS/settings.py changed, reloading.
+2025-04-11 18:53:22,033 - INFO - /Users/esteban.caicedo/Library/CloudStorage/OneDrive-WPPCloud/Desktop/MaIA/3 SEMESTRE/Desarrollo de soluciones cloud/Proyecto/RAG_SaaS_Back/RAG_SaaS/settings.py changed, reloading.
